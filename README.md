@@ -1,9 +1,9 @@
 # simple-react-expense-tracker
 This is a simple react expense tracker. Below is the screenshot of the Application.
 ### Adding a new expense
-![image](simple-react-expense-tracker/public/ssform-1.png)
+![image](https://github.com/I-am-vishalmaurya/simple-react-expense-tracker/blob/master/public/ssform-1.png)
 ### All the added expenses with chart
-![image](public\ss-2.png)
+![image](https://github.com/I-am-vishalmaurya/simple-react-expense-tracker/blob/master/public/ss-2.png)
 
 ## To run this app on your local machine follow this steps
 1. Clone the Repostory
