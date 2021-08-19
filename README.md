@@ -1,7 +1,7 @@
 # simple-react-expense-tracker
 This is a simple react expense tracker. Below is the screenshot of the Application.
 ### Adding a new expense
-![image](public\ssform-1.png)
+![image](simple-react-expense-tracker/public/ssform-1.png)
 ### All the added expenses with chart
 ![image](public\ss-2.png)
 
